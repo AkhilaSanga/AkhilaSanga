@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akhilasanga1104@gmail.com**
 
-- ⚡ Fun fact **I think am Funny**
+- ⚡ Fun fact **Follow what makes me happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

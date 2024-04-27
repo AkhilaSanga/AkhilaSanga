@@ -1,30 +1,26 @@
 [![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://akhilasanga.io)
 <h1 align="center">Hi 👋, I'm Akhila Sanga</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3_mJZ4qToACX6BjoNAqMfR&ust=1704100175010000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDLt5OquYMDFQAAAAAdAAAAABAD">
+<h3 align="center">A passionate Android Developer from Maharashtra</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilasanga&label=Profile%20views&color=0e75b6&style=flat" alt="akhilasanga" /> </p>
 
-- 🔭 I’m currently working on **ClearSpeakX**
-
+- 🔭 I’m currently working on project **Enhancing Speech Recognition for Voice Anamolies**
 - 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Android, Java**
-
+- 💬 Ask me about **Android, Java, Python**
 - 📫 How to reach me **akhilasanga1104@gmail.com**
-
-- ⚡ Fun fact **Follow what makes me happy**
+- ⚡ Fun fact **Follows what makes me happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akhila-sanga-752483231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhila-sanga-752483231" height="30" width="40" /></a>
 <a href="https://instagram.com/adorable_akhila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adorable_akhila" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/akhila sanga, stylishsisters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akhila sanga, stylishsisters" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akhila_35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akhila_35" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akhilasanga01011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akhilasanga01011" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akhilasanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akhilasanga" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adaptableakhila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adaptableakhila" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akhilasanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akhilasanga" height="30" width="40" /></a>
 <a href="https://discord.gg/akhilasanga#6459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="akhilasanga#6459" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/akhila_35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akhila_35" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

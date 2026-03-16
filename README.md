@@ -10,7 +10,7 @@ Full Stack Development
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212259888-2d11a5a0-2d2d-4e5b-8a2c-4c89eacdd5bb.gif" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 I'm Akhila Sanga</h1>
@@ -203,12 +203,14 @@ Agile / Scrum
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.leetcode.com/akhilasanga">
-<img src="https://skillicons.dev/icons?i=leetcode"/>
+<!-- Coding Profile Links -->
+
+<a href="https://leetcode.com/akhilasanga" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode" height="40" width="40"/>
 </a>
 
-<a href="https://www.hackerrank.com/akhilasanga01011">
-<img src="https://skillicons.dev/icons?i=hackerrank"/>
+<a href="https://www.hackerrank.com/akhilasanga01011" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerrank" height="40" width="40"/>
 </a>
 
 </p>

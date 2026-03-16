@@ -10,7 +10,7 @@ Full Stack Development
 
 <!-- Animated Header -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212259888-2d11a5a0-2d2d-4e5b-8a2c-4c89eacdd5bb.gif" width="100%">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 I'm Akhila Sanga</h1>

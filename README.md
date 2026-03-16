@@ -1,33 +1,226 @@
-[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://akhilasanga.io)
-<h1 align="center">Hi 👋, I'm Akhila Sanga</h1>
-<h3 align="center">A passionate Android Developer from Maharashtra</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<!--
+====================================================
+GitHub Profile README – Akhila Sanga
+Professional version focused on:
+AI / ML Engineering
+Software Engineering
+Full Stack Development
+====================================================
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilasanga&label=Profile%20views&color=0e75b6&style=flat" alt="akhilasanga" /> </p>
-
-- 🔭 I’m currently working on project **Enhancing Speech Recognition for Voice Anamolies**
-- 🌱 I’m currently learning **Flutter**
-- 💬 Ask me about **Android, Java, Python**
-- 📫 How to reach me **akhilasanga1104@gmail.com**
-- ⚡ Fun fact **Follows what makes me happy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akhila-sanga-752483231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhila-sanga-752483231" height="30" width="40" /></a>
-<a href="https://instagram.com/adorable_akhila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adorable_akhila" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akhila sanga, stylishsisters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akhila sanga, stylishsisters" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akhilasanga01011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akhilasanga01011" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/adaptableakhila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adaptableakhila" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akhilasanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akhilasanga" height="30" width="40" /></a>
-<a href="https://discord.gg/akhilasanga#6459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="akhilasanga#6459" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akhila_35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akhila_35" height="30" width="40" /></a>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋 I'm Akhila Sanga</h1>
+<h3 align="center">Software Engineer | AI/ML | Full Stack | Cloud</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilasanga&show_icons=true&locale=en&layout=compact" alt="akhilasanga" /></p>
+<p align="center">
+Building intelligent systems, scalable cloud applications, and AI-powered products.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilasanga&show_icons=true&locale=en" alt="akhilasanga" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilasanga&" alt="akhilasanga" /></p>
+# 👩‍💻 About Me
+
+I am a **Software Engineer with strong focus on AI systems, cloud infrastructure, and full-stack engineering**.
+
+My work combines **machine learning, backend systems, and modern web technologies** to build practical products.
+
+Key areas I work in:
+
+- AI Systems & LLM Applications  
+- Machine Learning & Computer Vision  
+- Cloud Data Pipelines  
+- Full Stack Web Applications  
+- Scalable Backend Services  
+
+I enjoy building **production-ready AI solutions and data-driven systems**.
+
+---
+
+# 🚀 Professional Experience
+
+### Founding Engineer — HaliosAI
+*Oct 2025 – Jan 2026*
+
+- Developed **AI agent guardrails and monitoring systems** for safe LLM behavior.
+- Implemented **runtime validation mechanisms** using the HaliosAI Python SDK.
+- Built **observability pipelines for detecting prompt injection and behavioral drift**.
+- Automated deployments using **containerized cloud infrastructure**.
+
+---
+
+### Software Engineer — Capgemini
+*Aug 2025 – Sept 2025*
+
+- Built **data engineering pipelines on GCP (BigQuery, Dataflow, Pub/Sub)**.
+- Automated Python workflows for **data transformation and analytics pipelines**.
+- Implemented **CI/CD pipelines with Docker and GitHub Actions**.
+- Debugged and optimized large-scale **ML data processing pipelines**.
+
+---
+
+### ReactJS Intern — Celebal Technologies
+*Jun 2024 – Aug 2024*
+
+- Built **React-based web modules** with CRUD operations and REST APIs.
+- Designed optimized SQL queries improving performance by **25%**.
+- Integrated **frontend with backend services** ensuring consistent data flow.
+
+---
+
+# 🧠 AI / Machine Learning Projects
+
+### 🌱 Plant Disease Detection
+Deep learning pipeline for plant disease classification.
+
+**Tech Stack**
+Python | TensorFlow | OpenCV | Computer Vision
+
+Key Results:
+- Dataset: 1700–7400 plant images
+- Achieved **98.85% classification accuracy**
+- Implemented preprocessing and cross-validation pipeline
+
+---
+
+### 🖼 Image Caption Generation
+Hybrid **CNN + LSTM architecture** to generate captions from images.
+
+**Tech Stack**
+Python | NLP | Deep Learning
+
+Features:
+- Trained on Flickr8K dataset
+- Evaluated using BLEU score metrics
+- Integrated computer vision with NLP pipeline
+
+---
+
+### 🐄 VetCarePro – AI Animal Healthcare Platform
+AI-powered cattle healthcare and veterinary marketplace.
+
+**Tech Stack**
+Machine Learning | PHP | MySQL | Bootstrap
+
+Features:
+- Disease prediction for livestock
+- Feed monitoring system
+- Veterinary medicine marketplace
+- Secure authentication system
+
+🏆 **Top 5 – MIT CORER Hackathon 2024**
+
+---
+
+# 🔬 Research Work
+
+- Research publications in **ICISS 2025** and **Springer ADCIS 2024**
+- Received **$200 research funding from La Trobe University, Australia**
+- Built prototype for **speech recognition system for voice disorders**
+
+---
+
+# 🧰 Technical Skills
+
+### Programming
+Python • Java • JavaScript • SQL
+
+### AI / ML
+Machine Learning  
+Deep Learning  
+Computer Vision  
+NLP  
+Transformers  
+Embeddings  
+Model Evaluation
+
+### Generative AI
+LLMs  
+Prompt Engineering  
+RAG Pipelines  
+Vector Search  
+AI Safety Guardrails
+
+### Web Development
+React.js  
+Node.js  
+HTML5  
+CSS3  
+Bootstrap  
+Tailwind CSS
+
+### Cloud & Data Engineering
+GCP (BigQuery, Dataflow, Pub/Sub)  
+AWS  
+ETL Pipelines  
+Data Processing
+
+### DevOps & MLOps
+Docker  
+CI/CD  
+GitHub Actions  
+Model Deployment
+
+### Tools
+Git  
+GitHub  
+Postman  
+Agile / Scrum
+
+---
+
+# 📊 GitHub Activity
+
+<!-- Top languages used -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilasanga&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<!-- GitHub stats -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=akhilasanga&show_icons=true&locale=en" />
+</p>
+
+<!-- Contribution streak -->
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilasanga" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/akhila-sanga-752483231">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/akhilasanga">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.leetcode.com/akhilasanga">
+<img src="https://skillicons.dev/icons?i=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/akhilasanga01011">
+<img src="https://skillicons.dev/icons?i=hackerrank"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Contact
+
+📧 **Email:** sanga.akhila.career@gmail.com  
+
+📍 Pune, Maharashtra, India
+
+---
+
+⭐ *If you find my projects interesting, feel free to explore and connect.*

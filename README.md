@@ -9,12 +9,18 @@ Full Stack Development
 -->
 
 <!-- Animated Header -->
+<!-- Developer workspace animation banner -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="650">
 </p>
 
 <h1 align="center">Hi 👋 I'm Akhila Sanga</h1>
 <h3 align="center">Software Engineer | AI/ML | Full Stack | Cloud</h3>
+
+<!-- Profile visitor counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=akhilasanga&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 <p align="center">
 Building intelligent systems, scalable cloud applications, and AI-powered products.
